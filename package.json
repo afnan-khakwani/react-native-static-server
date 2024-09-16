@@ -1,6 +1,6 @@
 {
-  "name": "ktp-react-native-static-server",
-  "version": "1.0.0",
+  "name": "react-native-static-server-ktp",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/afnan-khakwani/react-native-static-server.git",
@@ -33,6 +33,6 @@
     "ios",
     "index.js",
     "index.d.ts",
-    "react-native-static-server.podspec"
+    "react-native-static-server-ktp.podspec"
   ]
 }
